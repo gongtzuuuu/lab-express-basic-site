@@ -1,0 +1,20 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+article{
+    width: 500px;
+}
+
+#links {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#pictures {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
